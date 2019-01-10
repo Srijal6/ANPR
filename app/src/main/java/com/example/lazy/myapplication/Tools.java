@@ -1,7 +1,7 @@
 package com.example.lazy.myapplication;
 
 /**
- * Created by Lazy on 8/26/2016.
+ * Created by Lazy on 10/26/2017.
  */
 import android.content.Context;
 import android.graphics.Bitmap;
